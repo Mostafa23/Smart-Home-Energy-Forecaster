@@ -93,7 +93,7 @@ As Artificial Intelligence scales, computation sustainability becomes vital. Thi
 
 ## 🚀 How to Run
 
-### Option 1: Running on Kaggle (Recommended)
+### Running on Kaggle
 1. Create a new notebook on Kaggle.
 2. Under the **"Input"** section on the right panel, click **Add Data** and add the two datasets listed in the [Datasets](#-datasets) section above via their URLs.
 3. **Copy and paste** the entire source code from `main.py` into a single code cell.
